@@ -6,7 +6,7 @@ A **Edenz** é uma plataforma criada para pessoas que gostam de tecnologia, prog
 
 Nosso objetivo é construir um espaço onde pessoas possam **aprender, criar projetos, compartilhar conhecimento e se conectar com outras pessoas**.
 
-![Edenz](./assets/print.png)
+![Edenz](./assets/feed.png)
 
 ---
 
