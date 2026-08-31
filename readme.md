@@ -1,5 +1,6 @@
-# Edenz
 <img width="80" height="80" alt="logo" src="https://github.com/user-attachments/assets/9c5d69fb-e5f6-47c2-b445-26f3981114c6" />
+# Edenz
+
 
 > **Code, create and share.**
 
