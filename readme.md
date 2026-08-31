@@ -1,3 +1,12 @@
+<p align="center">
+  <img src="./assets/banner.png" width="900">
+</p>
+
+<h1 align="center">Edenz</h1>
+
+<p align="center">
+  Code, create and share.
+</p>
 <img width="80" height="80" alt="logo" src="https://github.com/user-attachments/assets/9c5d69fb-e5f6-47c2-b445-26f3981114c6" />
 
 # Edenz
