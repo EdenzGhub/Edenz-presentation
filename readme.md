@@ -106,6 +106,7 @@ Contribuições, sugestões e ideias são bem-vindas quando aplicáveis ao conte
 ## 🔗 Edenz
 
 **Website:** https://www.edenz.fun
+
 **Email de Suporte:** supportedenz@gmail.com
 
 ---
