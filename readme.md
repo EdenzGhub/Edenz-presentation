@@ -1,11 +1,17 @@
 <p align="center">
-  <img width="80" height="80" alt="Edenz logo" src="https://github.com/user-attachments/assets/9c5d69fb-e5f6-47c2-b445-26f3981114c6" />
+  <img width="100" height="100" alt="Edenz logo" src="https://github.com/user-attachments/assets/9c5d69fb-e5f6-47c2-b445-26f3981114c6" />
 </p>
 
 <h1 align="center">Edenz</h1>
 
 <p align="center">
-  Code, create and share.
+  <strong>Code, create and share.</strong>
+</p>
+
+<p align="center">
+  <a href="https://www.edenz.fun">🌐 Visite a Edenz</a>
+  &nbsp; • &nbsp;
+  <a href="https://github.com/EdenzGhub">GitHub</a>
 </p>
 
 
