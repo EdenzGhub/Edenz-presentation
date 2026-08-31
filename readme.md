@@ -1,4 +1,7 @@
-<img width="80" height="80" alt="logo" src="https://github.com/user-attachments/assets/9c5d69fb-e5f6-47c2-b445-26f3981114c6" />
+<p align="center">
+  <img width="80" height="80" alt="Edenz logo" src="https://github.com/user-attachments/assets/9c5d69fb-e5f6-47c2-b445-26f3981114c6" />
+</p>
+
 <h1 align="center">Edenz</h1>
 
 <p align="center">
