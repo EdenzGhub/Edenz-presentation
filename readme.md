@@ -11,7 +11,6 @@
 <p align="center">
   <a href="https://www.edenz.fun">🌐 Visite a Edenz</a>
   &nbsp; • &nbsp;
-  <a href="https://github.com/EdenzGhub">GitHub</a>
 </p>
 
 
