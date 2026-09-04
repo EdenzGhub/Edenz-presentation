@@ -29,7 +29,7 @@
 </p>
 
 <p align="center">
-  <img src="./assets/feed.png" alt="Preview da plataforma Edenz" width="850" />
+  <img src="./assets/novo.png" alt="Preview da plataforma Edenz" width="850" />
 </p>
 
 ---
